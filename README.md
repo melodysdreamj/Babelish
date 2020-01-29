@@ -1,5 +1,7 @@
 (공식문서)[https://melodysdreamj.synology.me:31935/oo/r/505881752508611605]
 
+[Google](http://www.google.co.kr)
+
 이문서는 이 깃허브를 바탕으로 마련되었습니다.
 사용법은 이곳에서 이것을 바탕으로 마련하였습니다. 저기 예시파일에서 another string부분이 채워져있어야합니다.
 명령어는 다음과같습니다.
