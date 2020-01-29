@@ -6,12 +6,10 @@
 
 명령어는 다음과같습니다.
 
-안드로이드 얻는법 - 타켓파일 - test_data_multiple_langs.csv
+안드로이드 얻는법 - 타켓파일 - [test_data_multiple_langs.csv](https://melodysdreamj.synology.me:31935/oo/r/532761700382847915#tid=1)
 
-babelish csv2android --filename=test_data_multiple_langs.csv --langs en:en, de:de, fr:fr, es:es --output_dir=android_lang
+babelish csv2android --filename=target_csv.csv --langs ko:ko en:en ja:ja es:es pt:pt fr:fr ar-XA:ar-XA de:de --output_dir=android_lang
 
 ios 얻는법
 
-babelish csv2strings --filename=test_data_multiple_langs.csv --langs en:en, de:de, fr:fr, Spanish:es --output_dir=ios_lang
-
-babelish csv2android --filename=test_data.csv --langs en:en, de:de, fr:fr, es:es --output_dir=android_lang
+babelish csv2strings --filename=target_csv.csv --langs ko:ko en:en ja:ja es:es pt:pt fr:fr ar-XA:ar-XA de:de --output_dir=ios_lang
