@@ -1,4 +1,3 @@
-()[]
 
 [공식문서](https://melodysdreamj.synology.me:31935/oo/r/505881752508611605)
 
